@@ -2,6 +2,8 @@
 
 This project analyzes how predictive a player's recent plate appearances are of their next outcome using rolling stats like AVG, OBP, and SLG. It uses data from the past 10 MLB seasons via Baseball Savant's Statcast.
 
+*Note: This doesn't work yet*
+
 ---
 
 ## ⚙️ Features
