@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Data and output
+statcast_data.csv
+rolling_stats.csv
+correlation_table.csv
+*.png
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
